@@ -1,0 +1,10 @@
+Hat
+Jacket
+Scarf
+Pants
+Dress
+Gloves
+Sneakers
+Shoe
+Chemise
+Shirt

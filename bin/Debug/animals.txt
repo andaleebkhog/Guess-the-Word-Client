@@ -1,0 +1,10 @@
+Cat
+Dog
+Rat
+Horse
+Koala
+Zebra
+Monkey
+Tiger
+Lion
+Snake

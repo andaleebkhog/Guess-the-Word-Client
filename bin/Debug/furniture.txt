@@ -1,0 +1,11 @@
+Cupboard
+Chair
+Table
+Soufa
+Mirror
+Kitchen
+Bedroom
+Modern
+Carpet
+Lamp
+

@@ -1,0 +1,13 @@
+Bruger
+Pizza
+Hotdog
+Fries
+Chocolate
+Salad
+Sandwich
+Steak
+Tuna
+Bread
+Fish
+Rice
+Spaghetti
